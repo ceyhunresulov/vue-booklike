@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "fullName": "ceyhun",
+      "userName": "ceyhun",
+      "password": "d7dd6d9e5148710d0c7e6a88c102f3c5df6c9b10",
+      "id": 1,
+      "likes": [
+        5,
+        4
+      ],
+      "bookmarkSave": [
+        5,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "fullName": "ferhad ",
+      "userName": "ferhad",
+      "password": "c05372dffb6e3c2f000b8eac224e4e40f2d49fb4",
+      "id": 2
+    }
+  ],
+  "bookmarks": [
+    {
+      "title": "Vue.js",
+      "url": "https://www.youtube.com/watch?v=EF6vmq0Fk4o&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp&index=9",
+      "categoryId": 5,
+      "desc": "framework",
+      "userId": 1,
+      "createdDate": "2022-07-03T08:13:13.509Z",
+      "id": 1
+    },
+    {
+      "title": "Html",
+      "url": "http://google",
+      "categoryId": 1,
+      "desc": "Html",
+      "userId": 1,
+      "createdDate": "2022-07-03T08:19:45.754Z",
+      "id": 2
+    },
+    {
+      "title": "Css",
+      "url": "http://",
+      "categoryId": 2,
+      "desc": "Css",
+      "userId": 1,
+      "createdDate": "2022-07-03T08:21:38.144Z",
+      "id": 3
+    },
+    {
+      "title": "Sass dersleri",
+      "url": "http://",
+      "categoryId": 4,
+      "desc": "sass",
+      "userId": 2,
+      "createdDate": "2022-07-03T10:41:53.615Z",
+      "id": 4
+    },
+    {
+      "title": "JavaScript",
+      "url": "http://",
+      "categoryId": 3,
+      "desc": "JavaScript",
+      "userId": 1,
+      "createdDate": "2022-07-04T11:16:17.043Z",
+      "id": 5
+    },
+    {
+      "title": "new tech",
+      "url": "http://",
+      "categoryId": 5,
+      "desc": "salam",
+      "userId": 1,
+      "createdDate": "2022-09-20T05:01:20.281Z",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "category": "Html",
+      "id": 1
+    },
+    {
+      "category": "Css",
+      "id": 2
+    },
+    {
+      "category": "JS",
+      "id": 3
+    },
+    {
+      "category": "Sass",
+      "id": 4
+    },
+    {
+      "category": "Vue.js",
+      "id": 5
+    }
+  ]
+}
